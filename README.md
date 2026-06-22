@@ -55,6 +55,7 @@
 ## AI 视频
 
 - [Sora](https://nav.jiamingai.cn/tool/sora) — OpenAI 出品的文本到视频模型。`免费+订阅`
+- [ImagineClip](https://imagineclip.com) — AI 视频生成工具，可从提示词、图片和效果生成头像短片、风格化场景和社交视频。`免费+订阅`
 - [腾讯智影](https://nav.jiamingai.cn/tool/tencent-zhiying) — 腾讯出品的 AI 视频创作。`免费+订阅`
 
 ## AI 语音 / 音乐
