@@ -71,6 +71,7 @@
 
 ## AI 助手插件 / 效率
 
+- [Remio](https://remio.ai/) — 本地优先 AI 记忆与知识库，索引文件、网页、会议、邮件和笔记，快速找回个人上下文。`免费+订阅`
 - [Monica](https://nav.jiamingai.cn/tool/monica) — 全能 AI 浏览器助手插件。`免费+订阅`
 - [Sider](https://nav.jiamingai.cn/tool/sider) — AI 浏览器侧边栏助手。`免费+订阅`
 - [Dust](https://nav.jiamingai.cn/tool/dust) — 企业级 AI 助手与知识库。`免费+订阅`
