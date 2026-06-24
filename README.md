@@ -68,6 +68,7 @@
 - [Notion AI](https://nav.jiamingai.cn/tool/notion-ai) — Notion 内嵌的 AI 写作与改写助手。`免费+订阅`
 - [Jasper](https://nav.jiamingai.cn/tool/jasper) — 面向营销人员的 AI 写作平台。`付费`
 - [Tom 写作助手](https://nav.jiamingai.cn/tool/tomemo) — AI 中文写作助手。`免费+订阅`
+- [Auferet](https://nav.jiamingai.cn/tool/auferet) — 免费 AI 角色扮演游戏，AI 游戏主持人能记住你的世界与上传的设定，支持 5e 与 Pathfinder 2e，可单人或多人游玩。`免费+订阅`
 
 ## AI 助手插件 / 效率
 
