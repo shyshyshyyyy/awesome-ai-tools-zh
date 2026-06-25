@@ -51,6 +51,7 @@
 - [Tiamat](https://nav.jiamingai.cn/tool/tiamat) — 国产 AI 绘画工具。`免费+订阅`
 - [Canva](https://nav.jiamingai.cn/tool/canva) — 在线设计工具，已深度集成 AI。`免费+订阅`
 - [即时设计](https://nav.jiamingai.cn/tool/ipic) — 国产协作设计工具，已接入 AI。`免费+订阅`
+- [HairWow](https://www.gohairwow.com) — AI 发型试戴工具，可用一张照片预览发型、发色、胡须和造型方向。`免费+订阅`
 
 ## AI 视频
 
