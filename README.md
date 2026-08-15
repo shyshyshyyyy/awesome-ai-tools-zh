@@ -51,6 +51,7 @@
 - [Tiamat](https://nav.jiamingai.cn/tool/tiamat) — 国产 AI 绘画工具。`免费+订阅`
 - [Canva](https://nav.jiamingai.cn/tool/canva) — 在线设计工具，已深度集成 AI。`免费+订阅`
 - [即时设计](https://nav.jiamingai.cn/tool/ipic) — 国产协作设计工具，已接入 AI。`免费+订阅`
+- [Eimu](https://eimu.art) — 在线生成 GPT Image 2 / Nano Banana Pro 图片，登录即用，无需中转站、无需申请 API Key。`免费`
 
 ## AI 视频
 
