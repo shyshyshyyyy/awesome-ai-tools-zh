@@ -67,6 +67,7 @@
 - [QuillBot](https://nav.jiamingai.cn/tool/quillbot) — AI 改写、润色与查重。`免费+订阅`
 - [Notion AI](https://nav.jiamingai.cn/tool/notion-ai) — Notion 内嵌的 AI 写作与改写助手。`免费+订阅`
 - [Jasper](https://nav.jiamingai.cn/tool/jasper) — 面向营销人员的 AI 写作平台。`付费`
+- [ResumeAI](https://withresumeai.com/) — 免费 ATS 检测与 AI 简历构建（匿名 3 次/天，免费账号 10 次/天）。`免费+订阅`
 - [Tom 写作助手](https://nav.jiamingai.cn/tool/tomemo) — AI 中文写作助手。`免费+订阅`
 
 ## AI 助手插件 / 效率
