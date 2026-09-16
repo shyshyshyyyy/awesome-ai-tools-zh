@@ -33,6 +33,7 @@
 
 - [Perplexity](https://nav.jiamingai.cn/tool/perplexity) — 全球热门的 AI 搜索引擎。`免费+订阅`
 - [Phind](https://nav.jiamingai.cn/tool/phind) — 面向开发者的 AI 搜索引擎。`免费+订阅`
+- [AI Tools Radar](https://aitoolsradar.com/) — AI 工具导航与产业资讯平台，帮助发现、比较和追踪 AI 产品。`免费`
 
 ## AI 编程 / 开发者
 
