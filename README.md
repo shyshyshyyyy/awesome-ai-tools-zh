@@ -69,6 +69,8 @@
 - [Jasper](https://nav.jiamingai.cn/tool/jasper) — 面向营销人员的 AI 写作平台。`付费`
 - [Tom 写作助手](https://nav.jiamingai.cn/tool/tomemo) — AI 中文写作助手。`免费+订阅`
 
+- [humanizer-zh-next](https://github.com/Hyacehila/humanizer-zh-next) — 面向中文文本的开源 Agent Skill，按体裁处理 33 类 AI 腔，提供学术写作模式，并强调保留事实、引用与作者声音。`免费开源`
+
 ## AI 助手插件 / 效率
 
 - [Monica](https://nav.jiamingai.cn/tool/monica) — 全能 AI 浏览器助手插件。`免费+订阅`
