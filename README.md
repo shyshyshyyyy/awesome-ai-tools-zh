@@ -33,6 +33,7 @@
 
 - [Perplexity](https://nav.jiamingai.cn/tool/perplexity) — 全球热门的 AI 搜索引擎。`免费+订阅`
 - [Phind](https://nav.jiamingai.cn/tool/phind) — 面向开发者的 AI 搜索引擎。`免费+订阅`
+- [DisconfirmAI / 证伪AI](https://disconfirmai.com/zh) — 面向投资研究的阅读与研究平台，先找可能推翻观点的反面证据再建确信。`免费+订阅`
 
 ## AI 编程 / 开发者
 
