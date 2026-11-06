@@ -53,6 +53,9 @@
 - [Alors On Danse Video Maker](https://alorsondansevideo.com) - Independent AI: two photos → 13s studio dance video (Paid; not affiliated with Stromae/TikTok)
 - [Bad Times AI](https://badtimesai.dev) - Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99)
 - [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com) - Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99)
+- [KDA Firestarter AI Dance](https://kdafirestarterai.dev) - Independent unofficial AI dance effect: one photo → 13s 21:9 solo video (Paid from $7.99; not affiliated with Riot/K/DA)
+- [A2O LITE NEON AI Dance](https://a2oliteai.org) - Independent AI: two photos → 15s neon duo dance with reference soundtrack (Paid from $7.99; unofficial)
+- [dime dime baby ai](https://dimedimebabyai.dev) - Independent AI dance effect: one photo → short 9:16 dance video with generated music (Paid from $7.99; unofficial)
 - [文心一格](https://nav.jiamingai.cn/tool/wenxin-yige) — 百度出品的 AI 绘画平台。`免费+订阅`
 - [Tiamat](https://nav.jiamingai.cn/tool/tiamat) — 国产 AI 绘画工具。`免费+订阅`
 - [Canva](https://nav.jiamingai.cn/tool/canva) — 在线设计工具，已深度集成 AI。`免费+订阅`
