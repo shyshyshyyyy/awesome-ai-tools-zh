@@ -47,6 +47,9 @@
 ## AI 绘图 / 设计
 
 - [Midjourney](https://nav.jiamingai.cn/tool/midjourney) — AI 绘图标杆，艺术风格细腻。`付费`
+- [PromptImage](https://promptimage.cloud) - Free AI image & video studio with a prompt library (signup credits, multi-model). Freemium
+- [TeslaWraps](https://teslawraps.design) - Browser Tesla Paint Shop wrap designer — core editing + PNG export free without account; optional AI credit…
+- [GrokVideo Studio](https://grokvideogenerator.dev) - Independent web app for text/image-to-video via Grok Imagine API (Free Trial, 20 credits). Not an official …
 - [文心一格](https://nav.jiamingai.cn/tool/wenxin-yige) — 百度出品的 AI 绘画平台。`免费+订阅`
 - [Tiamat](https://nav.jiamingai.cn/tool/tiamat) — 国产 AI 绘画工具。`免费+订阅`
 - [Canva](https://nav.jiamingai.cn/tool/canva) — 在线设计工具，已深度集成 AI。`免费+订阅`
