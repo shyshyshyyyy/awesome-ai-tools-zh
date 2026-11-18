@@ -20,6 +20,7 @@
 ## AI 大模型 / 对话助手
 
 - [DeepSeek](https://nav.jiamingai.cn/tool/deepseek) — 深度求索出品的国产开源大模型。`免费+订阅`
+- [哪个LLM / NaGeLLM](https://nagellm.com/) — 根据电脑配置筛选可在本地运行的开放权重大语言模型，并提供显存需求、估算速度和安装指南。配置器免费，结果为参考估算。`免费`
 - [ChatGPT](https://nav.jiamingai.cn/tool/chatgpt) — OpenAI 出品的通用 AI 对话助手。`免费+订阅`
 - [Claude](https://nav.jiamingai.cn/tool/claude) — Anthropic 出品的 AI 助手，擅长长文与代码。`免费+订阅`
 - [Gemini](https://nav.jiamingai.cn/tool/gemini) — Google 的多模态 AI 助手。`免费+订阅`
